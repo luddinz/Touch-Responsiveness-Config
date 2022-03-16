@@ -1,1 +1,1 @@
-Touch Config by AanRidwan
+Touch Config for Jasmine by AanRidwan
